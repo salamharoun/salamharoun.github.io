@@ -1,6 +1,24 @@
 
 
 # Proximity Analysis: Socioeconomic Correlation in CFRO Status
+# Crime-Free Rental Ordinances in Cook County Suburbs
+
+## Introduction
+
+This study investigates the racial and economic demographic variables that influence the passage of Crime-Free Rental Ordinances (CFROs) in Cook County, Illinois suburbs. The purpose of CFRO is to keep tenants with a history of crime out of a given municipality. When passed, landlords may be required to evict tenants who are or have been involved with the criminal justice system. Landlords may be fined or lose their rental property license for noncompliance. The definition of ‘involvement in the criminal justice system’ remains vague and varies widely between ordinances and often includes alleged criminal activities. These ordinances have been criticized for several adverse effects including discriminatory enforcement and neighborhood segregation.
+
+## Methods
+
+Cook County is a favorable test subject with over 120 municipalities of varying sizes (from under 1,000 to over 60,000 residents) and demographics (from near-zero to over 90% Black residents). This study addresses a gap in research on suburban politics. Suburbs are often overshadowed by studies focused on urban centers despite housing a large portion of the American population.
+
+We examined four hypotheses aimed at explaining the adoption of these nuisance laws:
+
+- **Racial Threat Hypothesis**
+- **Place Stratification Hypothesis**
+- **Proximity to City Boundaries Hypothesis**
+- **Policy Diffusion Hypothesis**
+
+The data collected to test these hypotheses were taken from the American Community Survey (ACS) from the US Census Bureau, the Cook County Health Atlas, the Shriver Center on Poverty Law, and the Illinois Housing Development Authority (IHDA).
 
 The maps below reveal a correlation between cities in Cook County, Illinois with large non-white populations, large voucher reliance populations, and CFRO status.
 
@@ -25,3 +43,74 @@ The maps below reveal a correlation between cities in Cook County, Illinois with
         <param name="filter" value="publish=yes" />
     </object>
 </div>
+
+
+
+
+
+## Hypotheses 
+
+### Racial Threat Hypothesis
+
+Studies (Moy 2023; Griswold et al. 2024; Kroeger and La Mattina 2020) suggest CFROs disproportionately impact Black and Hispanic renters. Certified rental units are typically located in lower-income areas with higher proportions of these populations. Reports from Northeast Ohio (Mead et al., 2017) indicate that race and class stereotypes often influence nuisance ordinance discussions.
+
+![Alt text](relative/path/to/image.png)
+
+According to Moy, the racial threat hypothesis posits that when a minority group approaches approximately 50% of a population, it begins to exert majority influence, leading to a decline in the passage of laws that do not serve its interests. However, this pattern was not observed in Cook County. As shown in the figure below, the proportion of cities adopting CFROs continues to rise with increasing percentages of Black residents, showing no plateau or decline around the 50% threshold.
+
+This may reflect the stronger influence of socioeconomic factors, such as housing voucher usage, over race alone. It also suggests that political power may not align with demographic majority. Additionally, the clustering of CFROs across municipalities indicates that policy diffusion, where cities adopt ordinances based on neighboring policies rather than local needs, may be reinforcing these laws instead.
+
+### Place Stratification Hypothesis
+
+Dominant groups manipulate spatial arrangements to maintain separation from groups they perceive as undesirable (Pais, South, & Crowder, 2012; Charles, 2003). Policies deputize landlords as enforcers of crime control (Greif, 2018). RAND (2023) shows CFHPs require property owners to attend police-led training and enforce lease terms permitting eviction based on allegations.
+
+### Proximity to City Boundaries Hypothesis
+
+Kroeger and La Mattina (2020) argue that nuisance ordinances may serve to prevent migration from urban centers. Mead (2017) further supports this, showing that renters using housing vouchers are often targeted by such policies.
+
+### Policy Diffusion Hypothesis
+
+Policy adoption often spreads through neighboring jurisdictions. Neto (2021) shows advocacy groups promote standardized policies. Kroeger and La Mattina (2020) also highlight that adoption in one municipality increases the likelihood of adoption in neighboring areas.
+
+## Analysis
+
+### 1. Racial Threat Hypothesis
+
+Findings challenge this hypothesis. The expected peak in discriminatory laws at ~50% minority population was not observed. Instead, a stronger connection exists between **housing voucher usage** and CFRO adoption, suggesting socioeconomic status may be a more significant factor than race alone.
+
+### 2. Place Stratification Hypothesis
+
+*(Note: Not detailed in your original analysis text—consider expanding for completeness.)*
+
+### 3. Proximity to City Boundaries Hypothesis
+
+Jurisdictions farther from Chicago are **more likely** to adopt CFROs.
+
+- **Correlation coefficient**: 0.29 (positive)
+- **Method**: Point-biserial correlation
+- Suggests suburban municipalities may adopt these policies to preempt perceived threats from urban migration.
+
+### 4. Policy Diffusion Hypothesis
+
+- **70%** of municipalities’ CFRO status matches that of their nearest neighbor.
+- **Moran’s I**: 0.2547 (moderate positive spatial autocorrelation)
+- **p-value**: 0.0030 (statistically significant)
+
+These findings suggest clustering in policy adoption, likely influenced by geographic proximity rather than formal coordination.
+
+## Key Findings and Implications
+
+- Racial threat alone does not explain CFRO adoption patterns.
+- **Socioeconomic indicators** (e.g., housing voucher usage) and **distance from Chicago** are stronger predictors.
+- CFRO adoption increases with distance from the city, contradicting assumptions that border municipalities are more restrictive.
+- Policy diffusion plays a role in suburban adoption patterns.
+- The complexity of suburban policymaking goes beyond simple racial animus, involving economic anxieties and spatial positioning.
+
+## Next Steps
+
+- Further investigation into **Place Stratification Hypothesis** with targeted qualitative data.
+- Explore **communication patterns** between municipalities regarding policy sharing.
+- Assess long-term impacts of CFROs on housing stability and racial segregation.
+- Use findings to inform advocacy strategies against discriminatory suburban housing policies.
+
+
