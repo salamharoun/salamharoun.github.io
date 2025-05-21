@@ -54,11 +54,19 @@ The maps below reveal a correlation between cities in Cook County, Illinois with
 
 Studies (Moy 2023; Griswold et al. 2024; Kroeger and La Mattina 2020) suggest CFROs disproportionately impact Black and Hispanic renters. Certified rental units are typically located in lower-income areas with higher proportions of these populations. Reports from Northeast Ohio (Mead et al., 2017) indicate that race and class stereotypes often influence nuisance ordinance discussions.
 
+According to Moy, the racial threat hypothesis states that when a minority group approaches approximately 50% of a population, it begins to exert majority influence, leading to a decline in the passage of laws that do not serve its interests. However, this pattern was not observed in Cook County. 
+
+The figure below groups cities in Cook County into bins based on the percentage of Black residents. For each group, the proportion of cities with CFROs was calculated and plotted. The graph displays these proportions as bubbles, where the height represents the fraction of cities with CFROs, and the size reflects the number of cities in each bin. A red dashed line indicates the overall average CFRO adoption rate across all municipalities. The results show that as the percentage of Black residents increases, the likelihood of CFRO adoption also tends to rise, with no clear decline around the 50% mark.
+
+
 <img src="images/blackpop.png?raw=true"/>
 
-According to Moy, the racial threat hypothesis posits that when a minority group approaches approximately 50% of a population, it begins to exert majority influence, leading to a decline in the passage of laws that do not serve its interests. However, this pattern was not observed in Cook County. As shown in the figure below, the proportion of cities adopting CFROs continues to rise with increasing percentages of Black residents, showing no plateau or decline around the 50% threshold.
+When the same analysis was applied to the percentage of residents relying on housing vouchers, the results showed a more pronounced pattern: CFRO adoption peaked and then declined as voucher reliance approached 30%. This indicates that perceived economic instability, rather than racial composition, may be a more direct trigger for these policies.
 
-This may reflect the stronger influence of socioeconomic factors, such as housing voucher usage, over race alone. It also suggests that political power may not align with demographic majority. Additionally, the clustering of CFROs across municipalities indicates that policy diffusion, where cities adopt ordinances based on neighboring policies rather than local needs, may be reinforcing these laws instead.
+<img src="images/voucherpop.png?raw=true"/>
+
+
+Overall, the graphs suggest that having a demographic majority does not necessarily translate into political power, as cities with large Black populations still adopt CFROs at high rates. Additionally, the clustering of CFROs across municipalities (discussed in a later hypothesis) points to policy diffusion, which is where cities adopt similar laws based on what nearby municipalities are doing rather than on their own local conditions. This may help explain how these ordinances continue to spread and persist.
 
 ### Place Stratification Hypothesis
 
