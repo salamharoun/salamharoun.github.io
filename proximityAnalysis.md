@@ -1,6 +1,4 @@
 
-
-# Proximity Analysis: Socioeconomic Correlation in CFRO Status
 # Crime-Free Rental Ordinances in Cook County Suburbs
 
 ## Introduction
@@ -78,19 +76,31 @@ While these patterns align with the place stratification hypothesis, it’s impo
 
 Kroeger and La Mattina (2020) argue that nuisance ordinances may serve to prevent migration from urban centers. Mead (2017) further supports this, showing that renters using housing vouchers are often targeted by such policies.
 
+In the study, we found that jurisdictions farther from Chicago are **more likely** to adopt CFROs.
+
+- **Correlation coefficient**: 0.29 (positive)
+- **Method**: Point-biserial correlation
+This suggests suburban municipalities may adopt these policies to preempt perceived threats from urban migration.
+
+- **T-test statistic**: 3.3 (positive)
+- **p-value**: 0.001
+
+In addition, a t-test was also used to compare cities closer to Chicago with those farther away in terms of CFRO adoption. The results (t = 3.3, p = 0.001) show a statistically significant difference. Cities that passed CFROs are, on average, farther from the city boundary than those that didn’t. The low p-value indicates this difference is unlikely to be due to chance. This data suggests that distance from Chicago may be a factor in the likelihood of CFRO adoption, with more distant suburbs being more prone to passing these ordinances.
+
+These findings support the argument made by Kroeger and La Mattina (2020), who suggest that nuisance ordinances may be used by suburbs to discourage migration from nearby urban centers. The statistically significant difference in distance from Chicago between cities with and without CFROs, along with the positive correaltion between distance from Chicago borde and CFRO status, indicates that more distant suburbs are more likely to adopt these ordinances. This pattern suggests an effort to maintain separation from the city and its residents, particularly lower-income renters. Mead (2017) adds to this by showing that renters using housing vouchers are often the specific targets of such policies. Together, the data and prior research point to CFROs functioning as a form of exclusionary zoning aimed at keeping out populations perceived as economically or socially undesirable.
+
+
+
+
+<img src="images/voucherpop.png?raw=true"/>
+
+
+
 ### Policy Diffusion Hypothesis
 
 Policy adoption often spreads through neighboring jurisdictions. Neto (2021) shows advocacy groups promote standardized policies. Kroeger and La Mattina (2020) also highlight that adoption in one municipality increases the likelihood of adoption in neighboring areas.
 
-## Analysis
 
-### 1. Racial Threat Hypothesis
-
-Findings challenge this hypothesis. The expected peak in discriminatory laws at ~50% minority population was not observed. Instead, a stronger connection exists between **housing voucher usage** and CFRO adoption, suggesting socioeconomic status may be a more significant factor than race alone.
-
-### 2. Place Stratification Hypothesis
-
-*(Note: Not detailed in your original analysis text—consider expanding for completeness.)*
 
 ### 3. Proximity to City Boundaries Hypothesis
 
