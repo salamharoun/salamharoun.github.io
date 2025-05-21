@@ -1,8 +1,8 @@
 
 
-# My Tableau Dashboard
+# Proximity Analysis: Socioeconomic Correlation in CFRO Status
 
-Below is the embedded Tableau dashboard:
+The maps below reveal a correlation between cities with large non-white populations, large voucher reliance populations, and CFRO status.
 
 <div class="tableauPlaceholder" id="viz1736983407708" style="position: relative">
     <noscript>
