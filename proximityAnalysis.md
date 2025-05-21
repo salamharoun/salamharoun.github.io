@@ -54,7 +54,7 @@ The maps below reveal a correlation between cities in Cook County, Illinois with
 
 Studies (Moy 2023; Griswold et al. 2024; Kroeger and La Mattina 2020) suggest CFROs disproportionately impact Black and Hispanic renters. Certified rental units are typically located in lower-income areas with higher proportions of these populations. Reports from Northeast Ohio (Mead et al., 2017) indicate that race and class stereotypes often influence nuisance ordinance discussions.
 
-![Alt text](relative/path/to/image.png)
+<img src="images/blackpop.png?raw=true"/>
 
 According to Moy, the racial threat hypothesis posits that when a minority group approaches approximately 50% of a population, it begins to exert majority influence, leading to a decline in the passage of laws that do not serve its interests. However, this pattern was not observed in Cook County. As shown in the figure below, the proportion of cities adopting CFROs continues to rise with increasing percentages of Black residents, showing no plateau or decline around the 50% threshold.
 
