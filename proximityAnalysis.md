@@ -2,7 +2,7 @@
 
 # Proximity Analysis: Socioeconomic Correlation in CFRO Status
 
-The maps below reveal a correlation between cities with large non-white populations, large voucher reliance populations, and CFRO status.
+The maps below reveal a correlation between cities in Cook County, Illinois with large non-white populations, large voucher reliance populations, and CFRO status.
 
 <div class="tableauPlaceholder" id="viz1736983407708" style="position: relative">
     <noscript>
