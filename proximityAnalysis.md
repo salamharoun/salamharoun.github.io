@@ -20,31 +20,6 @@ We examined four hypotheses aimed at explaining the adoption of these nuisance l
 
 The data collected to test these hypotheses were taken from the American Community Survey (ACS) from the US Census Bureau, the Cook County Health Atlas, the Shriver Center on Poverty Law, and the Illinois Housing Development Authority (IHDA).
 
-The maps below reveal a correlation between cities in Cook County, Illinois with large non-white populations, large voucher reliance populations, and CFRO status.
-
-<div class="tableauPlaceholder" id="viz1736983407708" style="position: relative">
-    <noscript>
-        <a href="#"><img alt="clusters" src="https://public.tableau.com/static/images/Pr/ProximityAnalysis/clusters/1_rss.png" style="border: none" /></a>
-    </noscript>
-    <object class="tableauViz" style="display:none;">
-        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
-        <param name="embed_code_version" value="3" />
-        <param name="site_root" value="" />
-        <param name="name" value="ProximityAnalysis/clusters" />
-        <param name="tabs" value="no" />
-        <param name="toolbar" value="yes" />
-        <param name="static_image" value="https://public.tableau.com/static/images/Pr/ProximityAnalysis/clusters/1.png" />
-        <param name="animate_transition" value="yes" />
-        <param name="display_static_image" value="yes" />
-        <param name="display_spinner" value="yes" />
-        <param name="display_overlay" value="yes" />
-        <param name="display_count" value="yes" />
-        <param name="language" value="en-US" />
-        <param name="filter" value="publish=yes" />
-    </object>
-</div>
-
-
 
 
 
@@ -71,6 +46,33 @@ Overall, the graphs suggest that having a demographic majority does not necessar
 ### Place Stratification Hypothesis
 
 Dominant groups manipulate spatial arrangements to maintain separation from groups they perceive as undesirable (Pais, South, & Crowder, 2012; Charles, 2003). Policies deputize landlords as enforcers of crime control (Greif, 2018). RAND (2023) shows CFHPs require property owners to attend police-led training and enforce lease terms permitting eviction based on allegations.
+
+The maps below reveal a strong geographic correlation between cities with high non-white populations, high housing voucher usage, and the adoption of CFROs. This pattern supports the place stratification hypothesis, which argues that dominant groups shape spatial arrangements to maintain social and physical separation from groups they perceive as undesirable (Pais, South, & Crowder, 2012; Charles, 2003). In this context, CFROs serve as tools of exclusion, enabling municipalities to regulate tenant populations under the guise of public safety. As shown by Greif (2018), such policies deputize landlords as agents of crime control, while RAND (2023) notes that property owners are often required to attend law enforcement-led trainings and enforce lease clauses that permit eviction based on mere allegations. These spatial trends suggest that CFROs are not just reactive public safety measures but are actively used to reinforce racial and economic boundaries within the suburban landscape.
+
+While these patterns align with the place stratification hypothesis, it’s important to interpret this relationship with caution. The observed overlap does not prove that demographic or economic factors directly cause CFRO adoption. Other factors, such as municipal leadership, law enforcement influence, or broader policy trends, also play a role. Without direct evidence of intent or policy motivations, the relationship remains correlational. Further research, including qualitative interviews or policy process analysis, would be needed to determine whether and how place stratification directly shapes these outcomes. 
+
+<div class="tableauPlaceholder" id="viz1736983407708" style="position: relative">
+    <noscript>
+        <a href="#"><img alt="clusters" src="https://public.tableau.com/static/images/Pr/ProximityAnalysis/clusters/1_rss.png" style="border: none" /></a>
+    </noscript>
+    <object class="tableauViz" style="display:none;">
+        <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+        <param name="embed_code_version" value="3" />
+        <param name="site_root" value="" />
+        <param name="name" value="ProximityAnalysis/clusters" />
+        <param name="tabs" value="no" />
+        <param name="toolbar" value="yes" />
+        <param name="static_image" value="https://public.tableau.com/static/images/Pr/ProximityAnalysis/clusters/1.png" />
+        <param name="animate_transition" value="yes" />
+        <param name="display_static_image" value="yes" />
+        <param name="display_spinner" value="yes" />
+        <param name="display_overlay" value="yes" />
+        <param name="display_count" value="yes" />
+        <param name="language" value="en-US" />
+        <param name="filter" value="publish=yes" />
+    </object>
+</div>
+
 
 ### Proximity to City Boundaries Hypothesis
 
