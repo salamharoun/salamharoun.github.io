@@ -6,7 +6,7 @@ The maps below reveal a correlation between cities in Cook County, Illinois with
 
 <div class="tableauPlaceholder" id="viz1736983407708" style="position: relative">
     <noscript>
-        <a href="#"><img alt="clusters" src="https://public.tableau.com/static/images/Pr/ProximityAnalysis/clusters/1_rss.png" style="border: none" /></a>
+        <a href="#"><img alt="" src="https://public.tableau.com/static/images/Pr/ProximityAnalysis/clusters/1_rss.png" style="border: none" /></a>
     </noscript>
     <object class="tableauViz" style="display:none;">
         <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
