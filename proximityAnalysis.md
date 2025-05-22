@@ -93,7 +93,6 @@ These findings support the argument made by Kroeger and La Mattina (2020), who s
 
 
 
-<img src="images/voucherpop.png?raw=true"/>
 
 
 
@@ -101,15 +100,17 @@ These findings support the argument made by Kroeger and La Mattina (2020), who s
 
 Policy adoption often spreads through neighboring jurisdictions. Neto (2021) shows advocacy groups promote standardized policies. Kroeger and La Mattina (2020) also highlight that adoption in one municipality increases the likelihood of adoption in neighboring areas.
 
+<img src="images/moranI.png?raw=true"/>
 
-
-### 4. Policy Diffusion Hypothesis
+In the study, we found that,
 
 - **70%** of municipalities’ CFRO status matches that of their nearest neighbor.
-- **Moran’s I**: 0.2547 (moderate positive spatial autocorrelation)
+- **Moran’s I**: 0.2547 (indicating moderate positive spatial autocorrelation)
 - **p-value**: 0.0030 (statistically significant)
 
 These findings suggest clustering in policy adoption, likely influenced by geographic proximity rather than formal coordination.
+
+This kind of spillover effect raises an important consideration: if municipalities are responding to the actions of their neighbors rather than making entirely independent decisions, it complicates how we analyze them. It challenges the assumption that each city is acting independently and instead points to a regional policy environment where decisions may be shaped by imitation, perceived norms, or competitive pressures.
 
 ## Key Findings and Implications
 
