@@ -12,14 +12,10 @@
 <img src="images/proximitycover.png?raw=true"/>
 
 ---
-[Artwork EDA](./artworkAnalysis.md)
-<img src="images/visualization.png?raw=true"/>
 
----
+### Past Projects
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
+- [Artwork EDA](./artworkAnalysis.md)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
