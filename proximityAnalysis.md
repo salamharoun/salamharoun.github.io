@@ -82,11 +82,12 @@ In the study, we found that jurisdictions farther from Chicago are **more likely
 - **Method**: Point-biserial correlation
 This suggests suburban municipalities may adopt these policies to preempt perceived threats from urban migration.
 
+
+A t-test was used to compare the distance from Chicago between cities that did and did not adopt a CFRO. Since the distances were normally distributed, the t-test was an appropriate method for this analysis. The results (t = 3.3, p = 0.001) show a statistically significant difference. Cities that passed CFROs are, on average, farther from the city boundary than those that didn’t. The low p-value indicates this difference is unlikely to be due to chance. This data suggests that distance from Chicago may be a factor in the likelihood of CFRO adoption, with more distant suburbs being more prone to passing these ordinances.
+
 - **T-test statistic**: 3.3 (positive)
 - **p-value**: 0.001
-
-In addition, a t-test was also used to compare cities closer to Chicago with those farther away in terms of CFRO adoption. The results (t = 3.3, p = 0.001) show a statistically significant difference. Cities that passed CFROs are, on average, farther from the city boundary than those that didn’t. The low p-value indicates this difference is unlikely to be due to chance. This data suggests that distance from Chicago may be a factor in the likelihood of CFRO adoption, with more distant suburbs being more prone to passing these ordinances.
-
+<img src="images/proximitydistribution.png?raw=true"/>
 These findings support the argument made by Kroeger and La Mattina (2020), who suggest that nuisance ordinances may be used by suburbs to discourage migration from nearby urban centers. The statistically significant difference in distance from Chicago between cities with and without CFROs, along with the positive correaltion between distance from Chicago borde and CFRO status, indicates that more distant suburbs are more likely to adopt these ordinances. This pattern suggests an effort to maintain separation from the city and its residents, particularly lower-income renters. Mead (2017) adds to this by showing that renters using housing vouchers are often the specific targets of such policies. Together, the data and prior research point to CFROs functioning as a form of exclusionary zoning aimed at keeping out populations perceived as economically or socially undesirable.
 
 
@@ -101,14 +102,6 @@ These findings support the argument made by Kroeger and La Mattina (2020), who s
 Policy adoption often spreads through neighboring jurisdictions. Neto (2021) shows advocacy groups promote standardized policies. Kroeger and La Mattina (2020) also highlight that adoption in one municipality increases the likelihood of adoption in neighboring areas.
 
 
-
-### 3. Proximity to City Boundaries Hypothesis
-
-Jurisdictions farther from Chicago are **more likely** to adopt CFROs.
-
-- **Correlation coefficient**: 0.29 (positive)
-- **Method**: Point-biserial correlation
-- Suggests suburban municipalities may adopt these policies to preempt perceived threats from urban migration.
 
 ### 4. Policy Diffusion Hypothesis
 
