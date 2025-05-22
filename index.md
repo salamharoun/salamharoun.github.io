@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects 
 
-[Artwork EDA](./artworkAnalysis.md)
-<img src="images/visualization.png?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Policy by Proximity](./proximityAnalysis.md)
+<img src="images/proximitycover.png?raw=true"/>
+
+---
+[Artwork EDA](./artworkAnalysis.md)
+<img src="images/visualization.png?raw=true"/>
 
 ---
 
