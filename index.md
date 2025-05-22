@@ -5,7 +5,7 @@
 ### Recent Projects 
 
 [A24 Guided Market Entry into Gaming](./A24MarketEntry.md)
-<img src="images/audienceCluster?raw=true"/>
+<img src="images/audienceCluster.png?raw=true"/>
 
 ---
 [Policy by Proximity](./proximityAnalysis.md)
