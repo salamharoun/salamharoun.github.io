@@ -4,8 +4,8 @@
 
 ### Recent Projects 
 
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[A24 Guided Market Entry into Gaming](./A24MarketEntry.md)
+<img src="images/audienceCluster?raw=true"/>
 
 ---
 [Policy by Proximity](./proximityAnalysis.md)
