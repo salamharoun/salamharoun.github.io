@@ -97,15 +97,3 @@ A24 should enter the gaming industry because it offers a powerful opportunity to
 - “Netflix Target Market & Consumer Segmentation – The Complete Brand Analysis 2022.” *Start.io*, 6 June 2022. [Link](https://www.start.io/blog/netflix-target-market-consumer-segmentation-the-complete-brandanalysis/). Accessed 9 May 2025.
 
 - Starmer, Josh. “Clustering with DBSCAN, Clearly Explained!!!” *YouTube*, 11 Jan. 2022. [Link](https://www.youtube.com/watch?v=RDZUdRSDOok). Accessed 9 May 2025.
-
-
-
-
-
-
-```plaintext
-Cluster Summary:
-- Cluster 0 (orange): Low engagement – Not a priority audience.
-- Cluster 1 (blue): High Indie, Low Sim – Ideal for *The Green Knight*-style games.
-- Cluster 2 (red): High overall engagement – Early adopters.
-- Cluster 3 (green): Balanced Indie/Sim – Perfect for *Spring Breakers*.
