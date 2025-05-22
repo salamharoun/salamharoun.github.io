@@ -2,7 +2,7 @@
 
 --- 
 
-### Recent Projects 
+### Recent Projects  
 
 [A24 Guided Market Entry into Gaming](./A24MarketEntry.md)
 <img src="images/audienceCluster.png?raw=true"/>
